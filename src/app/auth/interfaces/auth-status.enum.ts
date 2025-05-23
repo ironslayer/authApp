@@ -2,6 +2,6 @@
 
 export enum AuthStatus {
     checking            =   'checking',
-    authenticated       =   'authenticate',
+    authenticated       =   'authenticated',
     notAuthenticated    =   'notAuthenticated',
 }
